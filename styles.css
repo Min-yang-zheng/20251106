@@ -1,0 +1,11 @@
+body {
+  background-color: #003049;
+  color: #fff;
+  font-family: 'Noto Sans TC', sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  overflow: hidden;
+}
